@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0223/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0223/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 諸真聖胎神用訣
+  date: '2015-08-29 00:54:40.906716'
+  source:
+    repository: kanripo
+    path: KR5c0223
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0223_000-ZTDZ.yaml, hash: 'sha256:01657967ef2e72e82b008e687380073f79f3f9ca61c18d90d42b0dc1cd552e23'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0223_000-ZTDZ.markers.yaml, hash: 'sha256:3a6762b00efcc89b2cbc1aaf29168a93362e9ed50b68e301999e017594cecc5f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0223_SJB_000-180433b
+    span:
+    - body
+    - 0
+    - 4054
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:7cbe3bc69be2d643d3c02af5747ce89c25f9a545b2e2cf7dc43f7d9b6af65057
